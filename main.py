@@ -47,4 +47,5 @@ draw_line(0, 0, 250, -100, screen, color)
 # 		length += 20;
 
 # display(screen)
+print('Image produced called "img.png"')
 save_extension(screen, 'img.png')
